@@ -1,0 +1,6 @@
+---
+- hosts: all
+  roles:
+    - role: c7.common
+      tags: ['common']
+

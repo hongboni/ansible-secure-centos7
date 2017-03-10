@@ -1,0 +1,6 @@
+- name: c7.common
+  src: https://github.com/hongboni/ansible-common
+
+#- name: c7.nginx
+#  src: https://github.com/hongboni/ansible-nginx
+
