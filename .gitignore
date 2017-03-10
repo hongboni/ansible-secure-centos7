@@ -1,5 +1,4 @@
 # Ansible specific excludes
-hosts
 *.pub
 *.retry
 group_vars
