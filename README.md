@@ -22,7 +22,7 @@ Run this command to install dependencies under ./required-roles
 
 Run the 'securehost' playbook against a list of hosts as defined in file ./hosts
 
-Before running next script, you need to make sure that you can log into the remote root
+Before running next script, you need to make sure that you can log into the remote host as the root user
 without password using ssh keys.
 
 
