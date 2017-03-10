@@ -30,14 +30,14 @@ without password using ssh keys.
 ansible-playbook securehost.yml 
 ```
 
-After running above script, you can only log into the remote host via sudo user 'centos.
+After running above script, you can only log into the remote host via sudo user '*centos*'.
 Current host can still access remote host via port 22, 
 
 ```
 ssh centos@remote.host.ip
 ```
 
-All other machinese can only access the remote hosts via a special port 22022 
+All other machines can only access the remote hosts via a special port of 22022 
 (as defined in ansible-centos7-common role).
 
 ```
