@@ -3,7 +3,7 @@ This is a my way of provisioning and locking down a new CentOS 7 hosts
 
 ## Requirements
 
-Run this command to install dependencies under ./required-rools
+Run this command to install dependencies under ./required-roles
 
 `ansible-galaxy install -r requirements.yml`
 
