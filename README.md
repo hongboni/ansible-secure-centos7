@@ -15,7 +15,7 @@ Run this command to install dependencies under ./required-roles
 ### SecureHost play
 * Configure SELinux 
 * Configure firewalld
-* Configure sshd - disbale root & passwd login
+* Configure sshd - disable root & password login
 * Configure sshd - add sudo user with ssh keys
 
 ## Example Plays
