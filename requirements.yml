@@ -1,6 +1,4 @@
 - name: c7.common
-  src: https://github.com/hongboni/ansible-common
+  src: https://github.com/hongboni/ansible-centos7-common.git
 
-#- name: c7.nginx
-#  src: https://github.com/hongboni/ansible-nginx
 
